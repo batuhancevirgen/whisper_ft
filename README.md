@@ -1,1 +1,1 @@
-HTML ile kasımpatı kodlaması
+HTML ile kasımpatı kodlama
