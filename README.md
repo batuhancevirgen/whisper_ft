@@ -1,1 +1,2 @@
-HTML ile kasımpatı kodlama
+Whisper fine tunning
+
